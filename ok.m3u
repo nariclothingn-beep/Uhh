@@ -1,0 +1,3 @@
+#EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
+#EXTINF:-1 tvg-id="143" tvg-name="CNBC TV18 Prime" tvg-type="Business" group-title="TS-JioTV Business" tvg-language="English" tvg-logo="https://tulnit.fun/zee/?get_logo=https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FCNBCTV18Prime.png" catchup-days="7" catchup="auto" catchup-source="https://www.naariclothing.com:443/ami/app/catchup/ts_catchup_143_${catchup-id}_${start}_${stop}.m3u8",CNBC TV18 Prime
+https://www.naariclothing.com:443/ami/app/ts_live_143.m3u8
